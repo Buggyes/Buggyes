@@ -4,3 +4,5 @@
 
 ## Welcome to my GitHub
 This is where I upload and maintain my projects. Some of them I made during bootcamps, others in college, and a minority during my freetime.
+
+![Buggyes GitHub stats](https://github-readme-stats.vercel.app/api?username=Buggyes_icons=true&theme=transparent)
